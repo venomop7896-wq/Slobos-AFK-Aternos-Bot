@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ViltrumEmpire.aternos.me",
+    "ip": "leaffish.aternos.host:55160",
     "port": 55160,
     "version": "",
     "try-creative": false
